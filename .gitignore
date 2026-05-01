@@ -1,4 +1,5 @@
 */.venv
 .DS_Store
 *.lif
+*.lifext
 lif-files/.venv/
